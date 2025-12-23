@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/bs-landing/static/css/main.c8d976dd.css",
-    "main.js": "/bs-landing/static/js/main.a8d5b5a2.js",
+    "main.js": "/bs-landing/static/js/main.626abbe3.js",
     "static/js/787.25eaef86.chunk.js": "/bs-landing/static/js/787.25eaef86.chunk.js",
     "static/media/прокладка_кабеля_в_лотке.png": "/bs-landing/static/media/прокладка_кабеля_в_лотке.4300879e805d64fc5674.png",
     "static/media/cctv-2417559_1280.jpg": "/bs-landing/static/media/cctv-2417559_1280.2d6111056a4e6c80effd.jpg",
     "static/media/sprite-svg.svg": "/bs-landing/static/media/sprite-svg.25d11d5fb7f1a2e45bb7dd62264d5778.svg",
     "index.html": "/bs-landing/index.html",
     "main.c8d976dd.css.map": "/bs-landing/static/css/main.c8d976dd.css.map",
-    "main.a8d5b5a2.js.map": "/bs-landing/static/js/main.a8d5b5a2.js.map",
+    "main.626abbe3.js.map": "/bs-landing/static/js/main.626abbe3.js.map",
     "787.25eaef86.chunk.js.map": "/bs-landing/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8d976dd.css",
-    "static/js/main.a8d5b5a2.js"
+    "static/js/main.626abbe3.js"
   ]
 }
