@@ -4,9 +4,7 @@ import {FlexWrapper} from "../../../components/FlexWrapper";
 import {Skill} from "./skill/Skill";
 import {SectionTitle} from "../../../components/sectionTitle/SectionTitle";
 import {Container} from "../../../components/Container/Container";
-import {motion} from "framer-motion";
-import {fadeInUp} from "react-awesome-reveal/dist/animations/fading_entrances";
-import {Flip, Slide} from "react-awesome-reveal";
+import { Slide} from "react-awesome-reveal";
 
 const skillData = [
 
